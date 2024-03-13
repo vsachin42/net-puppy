@@ -1,0 +1,130 @@
+.home{
+    width: 90vw;
+    margin: auto;
+}
+
+.home img{
+    width: 90%;
+}
+
+.div2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div2 >div:nth-child(1) p{
+    font-size: 30px;
+}
+
+.div2 >div:nth-child(1) h3{
+    font-style: italic;
+}
+
+.div2 span{
+      color: rgb(96,189,187);
+}
+.div2 > div:nth-child(1){
+    width: 40%;
+}
+.div2 > div:nth-child(1) img{
+    width: 400px;
+}
+
+.div2 > div:nth-child(3){
+    width: 30%;
+}
+
+.div2 > div:nth-child(2) {
+     align-self: center;
+}
+
+.activity {
+    border: 2px solid rgb(192,157,89);
+    background-color: white;
+    border-radius: 1rem;
+    padding: 1rem 3rem;
+    color: rgb(93,93,93);
+    font-size: 20px;
+}
+
+.activity:hover{
+   cursor: pointer;
+}
+
+.activity span{
+    color: rgb(192,157,89);
+}
+
+.div4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.paraSpan{
+    color: rgb(185,1,36);
+    font-size: 40px;
+}
+
+.div4 > div:nth-child(2) p{
+    font-size: 20px;
+}
+
+.div5 > div:nth-child(1){
+    text-align: center;
+}
+
+.heading{
+     font-size: 30px;
+}
+
+.div5 > div:nth-child(2){
+    display: flex;
+    justify-content: space-between;
+}
+
+.div5 > div:nth-child(2) > div:nth-child(2) img{
+    align-self: center;
+}
+
+.div5 > div:nth-child(2) > div:nth-child(3) img{
+        height: 80px;
+}
+
+.management{
+    background-color: rgb(235,0,45);
+}
+
+.div7{
+    display: flex;
+    justify-content: space-between;
+}
+
+.div7 > div:nth-child(2){
+    align-self: center;
+}
+
+.div7 > div:nth-child(3) p{
+    font-size: 40px;
+}
+
+.div7 > div:nth-child(3) p span{
+    color: rgb(96,189,187);
+    font-size: 20px;
+}
+
+.div8{
+    display: flex;
+    justify-content: space-around;
+}
+
+.horizontal{
+    color: red;
+}
+
+.div8 > div:nth-child(1){
+    width: 30%;
+}
+
+.div8 > div:nth-child(2) img{
+    height: 500px;
+}

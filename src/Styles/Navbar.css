@@ -1,0 +1,16 @@
+.Navbar{
+    display: flex;
+    width: 90vw;
+    justify-content: space-around;
+}
+
+.img1{
+    width: 40%;
+    height: 10vh;
+    align-self: self-end;
+}
+
+.img2{
+    width: 20%;
+    /* height: 10vh; */
+}
